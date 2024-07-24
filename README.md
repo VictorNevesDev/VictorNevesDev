@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **vnevesdev@gmail.com**
 
-- 💡 Fun fact **One of my biggest hobbies is music, and I play 6 instruments!**
+- 💡 Fun fact **one of my biggest hobbies is music, and I play 6 instruments!**
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorNevesDev&show_icons=true&theme=dracula)
 
