@@ -1,11 +1,16 @@
-<h1 align="center">Hi 👋, I'm Victor das Neves Junior</h1>
-<h3 align="center">An electrical engineer looking to delve deeper into the world of development!</h3>
+<h1 align="left">Hi 👋, I'm Victor das Neves Junior</h1>
+<h3 align="left">An electrical engineer looking to delve deeper into the world of development!</h3>
 
 - 🌱 I’m currently learning **Python Frameworks**
 
 - 📫 How to reach me **vnevesdev@gmail.com**
 
-- ⚡ Fun fact **One of my biggest hobbies is music, and I play 6 instruments!**
+- 💡 Fun fact **One of my biggest hobbies is music, and I play 6 instruments!**
+
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorNevesDev&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorNevesDev)](https://github.com/VictorNevesDev/github-readme-stats)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
