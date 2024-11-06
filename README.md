@@ -1,7 +1,7 @@
-<h1 align="left">Hi 👋, I'm Victor das Neves Junior</h1>
-<h3 align="left">An electrical engineer looking to delve deeper into the world of development!</h3>
+<h1 align="left">Hi 👋, my name is Victor das Neves Junior</h1>
+<h3 align="left">I'm an electrical engineer working as a software developer!</h3>
 
-- 🌱 I’m currently learning **Python Frameworks**
+- 🌱 I’m currently studying **Django REST Framework**
 
 - 📫 How to reach me **vnevesdev@gmail.com**
 
