@@ -7,8 +7,8 @@
 
 - 💡 Fun fact **one of my biggest hobbies is music, and I play 6 instruments!**
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorNevesDev&show_icons=true&theme=dracula)
 
+<!-- ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorNevesDev&show_icons=true&theme=dracula) -->
 
 
 
